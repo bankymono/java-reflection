@@ -1,0 +1,31 @@
+
+k
+java:S16048"(Make this anonymous inner class a lambda(Ü›Ï„8Şã×Î¥2J$bfdc13ed-82a5-435e-9126-6eb7b461ff8b
+r	java:S106"+Replace this use of System.out by a logger.(ÈïŸÛşÿÿÿÿ8âã×Î¥2J$4c8370f4-c085-41d2-a609-8fff08ef0417
+r	java:S106"+Replace this use of System.out by a logger.(–ÌÈ‹øÿÿÿÿ8çã×Î¥2J$d93c0351-a070-42e8-9ca1-c438fb73e7a8
+r	java:S106"+Replace this use of System.out by a logger.(ñÅİËüÿÿÿÿ8èã×Î¥2J$291075c8-aadf-450e-96a3-a668d1a839ac
+r	java:S106"+Replace this use of System.out by a logger.(òÎúºøÿÿÿÿ8éã×Î¥2J$1593d087-34b0-4c6c-a98e-63367cbf976b
+m	java:S106"+Replace this use of System.out by a logger.(áÌ¶8¥ä×Î¥2J$a73c7eb8-7228-4238-b55f-9b782820c13f
+r	java:S106"+Replace this use of System.out by a logger.(½ëŸ§ıÿÿÿÿ8±ä×Î¥2J$88fb2c09-6c3f-423e-a9ba-d045a5ce0df8
+m	java:S106"+Replace this use of System.out by a logger.(Ãú½™8Îä×Î¥2J$ff3c33c5-8bf1-4134-8e5e-53ee22d54476
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Øä×Î¥2J$2ef22cd5-204e-4a98-9753-9cf74befd9a1
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Üä×Î¥2J$9ca3ed5f-3a6e-4192-a88a-22f268b22be7
+r
+java:S3985#"*Remove this unused private "Square" class.(¯ï©€üÿÿÿÿ8Şä×Î¥2J$39e88a23-e988-4b44-8d2a-08c5aab93755
+‚
+java:S18546"?Remove this useless assignment to local variable "squareClass".(ò±©Ò8àä×Î¥2J$076a5dae-d42f-40a5-9d8e-b15cbf364079
+ƒ
+java:S18545"@Remove this useless assignment to local variable "hashMapClass".(í‡¿Ÿ8áä×Î¥2J$49ab5ad7-3214-48fc-b232-c561c26ebc59
+‡
+java:S18543"?Remove this useless assignment to local variable "stringClass".(ä°¿¹øÿÿÿÿ8ãä×Î¥2J$45329a57-ba8f-4d4d-9d75-ab548e3ae1ed
+x
+java:S14813"0Remove this unused "stringClass" local variable.(ä°¿¹øÿÿÿÿ8‹å×Î¥2J$cef00546-9c40-401b-a1e1-67c4f0bcf62d
+‰
+java:S21334"ARemove this object instantiation and use "HashMap.class" instead.(úÙ¡×øÿÿÿÿ8¬å×Î¥2J$213a71cd-383e-4325-b1e0-d280b2c099b8
+t
+java:S14815"1Remove this unused "hashMapClass" local variable.(í‡¿Ÿ8åå×Î¥2J$1546dfad-ff2a-4101-99c8-af94d7bb9985
+s
+java:S14816"0Remove this unused "squareClass" local variable.(ò±©Ò8åå×Î¥2J$1ce92a0c-fad6-4722-957a-1fbfa99793f8
+~	java:S125@"<This block of commented-out lines of code should be removed.(ÔáÕÓ8åå×Î¥2J$a1f4f3c6-d80a-4434-8657-cc2e136df3ca
+…
+java:S21338"BRemove this object instantiation and use "Drawable.class" instead.(Ü›Ï„8åå×Î¥2J$9aad30ef-0cc4-4e59-b759-e31f49c5f149
