@@ -1,8 +1,6 @@
 package org.bankymono;
 
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class Main {
 
@@ -52,6 +50,7 @@ public class Main {
         Map<String,Integer> mapObject = new HashMap<>();
         Class<?> hashMapClass = mapObject.getClass();
         Class<?> squareClass = Class.forName("org.bankymono.Main$Square");
+
 
         var circleObject = new Drawable(){
 
